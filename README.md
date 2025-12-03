@@ -16,4 +16,3 @@ This end-to-end workflow ensures fast, reliable, and repeatable delivery of chan
 
 This project is still in progress
 
-If you want, I can expand it into a full README (installation steps, architecture diagram, commands, pipeline YAML, EC2 setup, etc.).
